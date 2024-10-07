@@ -1,0 +1,5 @@
+FunHelp.c:12:4:STR_COMPARE	24	static
+FunHelp.c:31:4:STR_LEN	24	static
+FunHelp.c:43:6:STR_COPY	24	static
+FunHelp.c:59:6:itoi	32	static
+FunHelp.c:105:5:map	24	static

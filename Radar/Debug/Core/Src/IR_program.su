@@ -1,0 +1,4 @@
+IR_program.c:16:6:HIR_voidGetFrame	16	static
+IR_program.c:32:6:HIR_voidExtractKey	16	static
+IR_program.c:71:6:HIR_voidSetCallBack	16	static
+IR_program.c:76:4:HIR_u8GetPressedKey	16	static

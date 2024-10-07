@@ -1,0 +1,3 @@
+SSD_program.c:31:4:SSD_u8Display	24	static
+SSD_program.c:61:4:SSD_u8Enable	24	static
+SSD_program.c:89:4:SSD_u8Disable	24	static

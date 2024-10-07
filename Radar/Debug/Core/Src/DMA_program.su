@@ -1,0 +1,9 @@
+DMA_program.c:17:6:MDMA_VidSetConfiguration	16	static
+DMA_program.c:137:6:MDMA_VidDMAEnable	16	static
+DMA_program.c:148:6:MDMA_VidDMADisable	16	static
+DMA_program.c:154:6:MDMA_VidInerruptEnable	16	static
+DMA_program.c:160:6:MDMA_VidSetAddress	24	static
+DMA_program.c:169:6:MDMA_VidClearFlag	16	static
+DMA_program.c:178:4:MDMA_u8GetFlag	24	static
+DMA_program.c:194:6:MDMA_VidSetCallBackChannel1	16	static
+DMA_program.c:200:6:DMA1_Channel1_IRQHandler	8	static

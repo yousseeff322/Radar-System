@@ -1,0 +1,4 @@
+SPI_program.c:19:6:MSPI1_voidInit	4	static
+SPI_program.c:27:6:MSPI1_voidSendReciveSynch	16	static
+SPI_program.c:48:6:MSPI1_voidSendReceiveAsynch	16	static
+SPI_program.c:65:6:SPI1_IRQHandler	16	static

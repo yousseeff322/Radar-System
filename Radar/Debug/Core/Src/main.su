@@ -1,0 +1,3 @@
+main.c:26:6:main	32	static
+main.c:139:6:HandleRemoteKey	16	static
+main.c:167:6:displayInfo	40	static
