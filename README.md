@@ -103,6 +103,3 @@ This project implements a radar system using STM32 microcontrollers. The radar s
 - **FOTA Updates**: Implement Firmware Over-The-Air (FOTA) updates to easily upgrade the system.
 - **Multiple Sensor Support**: Extend the system to support multiple ultrasonic sensors for wider area coverage.
 
-## License
-
-This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT). Feel free to contribute, modify, and enhance!
