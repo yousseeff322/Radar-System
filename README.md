@@ -4,6 +4,9 @@
 
 This project implements a radar system using STM32 microcontrollers. The radar system continuously sweeps an ultrasonic sensor over a 180-degree arc using a servo motor and displays the measured distance to any obstacles on a TFT screen. The system controls LEDs based on the proximity of objects and can be managed via a remote control to start/stop the radar or adjust its speed.
 
+![WhatsApp Image 2024-10-07 at 11 10 20 PM](https://github.com/user-attachments/assets/4bcf9d45-cba9-4db7-a566-b783e1c212e2)
+
+
 ## Features
 
 - **Ultrasonic Distance Sensing:** Detects objects within the radar's range using an ultrasonic sensor.
